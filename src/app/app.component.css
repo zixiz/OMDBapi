@@ -1,0 +1,19 @@
+.margenoto{
+    margin-left:auto;margin-right:auto;
+}
+
+
+
+.Movie {
+    margin: auto;
+    display: inline-block;
+    padding: 3px 6px;
+    height: 529px;
+    width: 300px;
+    overflow-wrap: break-word;
+}
+img {
+    width: 300px;
+    height: 443px; 
+    object-fit: contain;
+}
